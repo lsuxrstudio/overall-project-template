@@ -1,0 +1,1 @@
+Use something like Blackmagic Proxy Generator, Scartch, Adobe Media Encoder, or EditReady to make Proxies automaticaly and place them here. 

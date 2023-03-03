@@ -1,0 +1,1 @@
+Here is where you actually dump the footage from your memory cards. Make sure to retain the original file strucutre of the memory card here. 
