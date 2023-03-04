@@ -9,4 +9,4 @@ This is a folder hierarchy that can be used to both, keep your project organized
 
 ## Considerations
 * Look in the folder for descriptions of what goes there.
-* [Click here for a workflow guide that uses this project template](https://github.com/lsuxrstudio/xrstudioguides/tree/main/production-worflow).
+* [Click here for a workflow guide that uses this project template](https://github.com/lsuxrstudio/xrstudioguides/tree/main/production-workflow).
