@@ -9,5 +9,4 @@ This is a folder hierarchy that can be used to both, keep your project organized
 
 ## Considerations
 * Look in the folder for descriptions of what goes there.
-* Think about using a cloud storage service that you can _make availble offline_ certain folders while you work on the project and then _make availble online_ when you're done.
-* Look here for a workflow guide that uses this project template (TBA).
+* [Click here for a workflow guide that uses this project template](https://github.com/lsuxrstudio/xrstudioguides/tree/main/production-organization).
