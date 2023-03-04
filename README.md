@@ -6,7 +6,7 @@ This is a folder hierarchy that can be used to both, keep your project organized
 2. Unzip
 3. Move the folder to the location you want to store your production content.
 
-# Usage
+## Usage
 1. Ingest footage into Media > Video > Originals.
 2. Import the contents of the Media folder into your NLE
 3. Organize your clips by copying them into numbered Scenes folders. 
